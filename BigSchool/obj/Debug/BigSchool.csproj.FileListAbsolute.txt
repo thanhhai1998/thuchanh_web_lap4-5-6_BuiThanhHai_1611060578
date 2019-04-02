@@ -266,3 +266,4 @@ C:\Users\ASUS\Desktop\Code\ASP.Net\thuchanhweb\BigSchoolasd\asd\thuchanh_web_lap
 C:\Users\ASUS\Desktop\Code\ASP.Net\thuchanhweb\BigSchoolasd\asd\thuchanh_web_lap4-5-6_BuiThanhHai_1611060578\BigSchool\bin\System.Net.Http.Formatting.xml
 C:\Users\ASUS\Desktop\Code\ASP.Net\thuchanhweb\BigSchoolasd\asd\thuchanh_web_lap4-5-6_BuiThanhHai_1611060578\BigSchool\bin\System.Web.Http.xml
 C:\Users\ASUS\Desktop\Code\ASP.Net\thuchanhweb\BigSchoolasd\asd\thuchanh_web_lap4-5-6_BuiThanhHai_1611060578\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\Code\ASP.Net\thuchanhweb\BigSchoolasd\asd\thuchanh_web_lap4-5-6_BuiThanhHai_1611060578\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources

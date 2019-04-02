@@ -1,4 +1,4 @@
-﻿@using Microsoft.AspNet.Identity
+﻿    @using Microsoft.AspNet.Identity
 @if (Request.IsAuthenticated)
 {
     using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
@@ -15,7 +15,8 @@
                 <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
-
+                <li><a href="@Url.Action("Attending","Courses")">Course I'm going</a></li>
+                <li><a href="@Url.Action("Attending","Courses")">Lecture I'm going</a></li>
                 <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
             </ul>
         </li>
